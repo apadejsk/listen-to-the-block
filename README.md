@@ -1,20 +1,18 @@
-# maxmspObjs
-maxmsp stuff
+## csvReader
 
-## csv reader
+this patch demonstrates how to read a csv line by line using a small javascript program (csv_reader)
 
-this patch demonstrates how to read a csv line by line using a small javascript program
+## deep_feels
 
-## espeak
+main working patch for sonification of the etherscan data
 
-this patch demonstrates how to use the ```espeak``` tool to use text-to-speech in max
+## particleNoise
 
-note that you will need to download the espeak executable (appropriate for your OS) and include it in the patch directory. e.g. for windows you want espeak.exe.
+visualization patch sketch
 
-http://espeak.sourceforge.net/download.html
+## ether_test.csv
 
-espeak is not the best tts engine out there, but it is open source, has a simple command line interface, and distributes precompiled binaries.
+cleaned up sample test data from Etherscan
 
-## espeak csv
 
-combines the two patches above
+
